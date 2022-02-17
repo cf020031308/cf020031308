@@ -1,4 +1,4 @@
-Welcome! I am [Roy](https://github.com/cf020031308), an ex-programmer developping CDN things at back end in Knownsec and now masteral candidate learning ML/AI at UESTC.
+Welcome! I am [Roy](https://github.com/cf020031308), an ex-programmer developping CDN things at back end in Knownsec and now doctoral candidate learning ML/AI at UESTC.
 
 Most of the leisure works related to me are listed below and published into [cf020031308/cf020031308.github.io](https://github.com/cf020031308/cf020031308.github.io). I'd be glad if you like and star it.
 
